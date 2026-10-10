@@ -1,13 +1,8 @@
-# Project 2: Responsive Web Layout
-
-> **Frontend Development Internship Project**  
-> Completed as part of the Frontend Development Internship.
-
----
+ Responsive Web Layout
 
 ## 📌 Project Overview
 
-The objective of **Project 2: Responsive Web Layout** is to engineer a responsive webpage that fluidly adapts across different screen sizes and device viewports. 
+The objective of  Responsive Web Layout is to engineer a responsive webpage that fluidly adapts across different screen sizes and device viewports. 
 
 Built strictly with frontend technologies, the project focuses on responsive architecture, CSS layout techniques, accessible adaptive navigation, and mathematical alignment principles.
 
